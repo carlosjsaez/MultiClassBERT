@@ -1,0 +1,7 @@
+The Task: Predict the review score (1-5 stars) from the review text.
+
+The dataset consists of Amazon reviews and we are looking at a particular category: "Fashion". The data can be downloaded here: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/AMAZON_FASHION_5.json.gz and more information is available here: https://nijianmo.github.io/amazon/index.html
+
+There is no "right" solution to this. Just predict as well as you can and during the interview we will review your approach together.
+
+Generally we would advise to not spend more than 3 hours on this.
